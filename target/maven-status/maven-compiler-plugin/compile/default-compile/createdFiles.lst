@@ -1,0 +1,5 @@
+com\adminnc\qa\Base\NCOptionManager.class
+com\adminnc\qa\pages\NCLoginPage.class
+com\adminnc\qa\Base\NCBasePage.class
+com\adminnc\qa\Base\NCBaseTest.class
+com\adminnc\qa\pages\NCCustomerPage.class
